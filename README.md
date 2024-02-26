@@ -1,0 +1,6 @@
+- > 👋 Hi, I’m @ARandomMC (Owner of the small server (like 2 players) A Random Minecraft Server.) My main account is @qtqgyt. I use this account to store the things like custom plugins for the server. I believe in open source projects.
+- > 📫 How to reach me: cc@somedomain.info
+- > 😄 Pronouns: he/him
+- > ⚡ Fun fact: I have been coding since I was 6
+- > [![hmm](https://github-readme-stats.vercel.app/api?username=ARandomMC&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]()
+- > [![hmm](https://github-readme-stats.vercel.app/api/top-langs/?username=ARandomMC&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)]()
